@@ -1,0 +1,5 @@
+ [LOGGER] 2024-12-28 07:14:39.503 AM error : controllers/user.controller.js:createUser - 
+Invalid `prisma.user.create()` invocation:
+
+
+Unique constraint failed on the constraint: `User_userName_key`
